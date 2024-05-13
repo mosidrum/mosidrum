@@ -25,13 +25,13 @@
 
  <img align="right" src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="400" height="auto"/>
 
-- 🌱 I’m currently learning **JavaScript, React, Ruby on Rails**
+- 🌱 I’m currently learning **Node JS, React Native, and Flutter**
 
-- 👨‍💻 All of my projects are available at [https://mosidrum.github.io/Portfolio/](https://mosidrum.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://mosidrum.github.io/Portfolio/](https://isaacayodele.vercel.app)
 
 - 📝 I regularly write articles on [https://twitter.com/mosidrum](https://twitter.com/mosidrum)
 
-- 💬 Ask me about **JavaScript, React, Ruby on Rails**
+- 💬 Ask me about **JavaScript, React, TypeScript**
 
 - 📫 How to reach me **mosiokanga@gmail.com**
 
