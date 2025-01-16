@@ -3,7 +3,7 @@
   <img src="https://avatars.githubusercontent.com/u/97716175?v=4" alt="logo" width="140"  height="auto" />
 
   <h1 align="center">Hi 👋, I'm Ayodele Isaac Mosiron</h1>
-  <h3 align="center">Full-Stack Software Developer that enjoys working with JavaScript, React, TypeScript, Node Js. I play drum in my spare time. Open for opportunities</h3>
+  <h3 align="center">Full-Stack Software Developer that enjoys working with JavaScript, React, React Native, TypeScript, Node Js. I play drum in my spare time. Open for opportunities</h3>
   <div id="badges">
     <a href = "https://www.linkedin.com/in/isaac-ayodele-37890521b/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently learning **Node JS, React Native, and Flutter**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://isaacayodele.vercel.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://isaacayodele.netlify.app)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@mosiokanga)
 
