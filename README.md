@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently learning **Node JS, React Native, and Flutter**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://isaacayodele.netlify.app)
+- 👨‍💻 All of my projects are available at <a href="https://isaacayodele.netlify.app" target="_blank" rel="noopener noreferrer">Portfolio</a>
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@mosiokanga)
 
