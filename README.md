@@ -1,10 +1,7 @@
 <div id="header" align="center">
-
   <img src="https://avatars.githubusercontent.com/u/97716175?v=4" alt="logo" width="140" height="auto" />
-
   <h1 align="center">Ayodele Isaac Mosiron</h1>
   <h3 align="center">Full-Stack Engineer · Building AI-powered products with React, Next.js, TypeScript, and Node.js</h3>
-
   <div id="badges">
     <a href="https://www.linkedin.com/in/isaac-ayodele-37890521b/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,20 +13,18 @@
       <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
     </a>
   </div>
-
   <p><img src="https://komarev.com/ghpvc/?username=mosidrum&label=Profile%20views&color=0e75b6&style=flat" alt="mosidrum" /></p>
-
 </div>
 
 ---
 
 ### About Me
-
 I'm a full-stack engineer based in Lagos, Nigeria, with 5+ years building production web and mobile apps. I work primarily with **React**, **Next.js**, **TypeScript**, **Node.js**, **React Native**, and **PostgreSQL**.
 
-Right now I'm focused on the intersection of product engineering and AI — building agentic systems, LLM-powered pipelines, and developer tooling. Currently leading frontend and AI architecture at **[Relaystack](https://relaystack.com)**, an AI execution platform with skill-based agent routing.
+Right now I'm focused on the intersection of product engineering and AI: building agentic systems, LLM-powered pipelines, and developer tooling. I currently lead frontend and AI architecture at **[Relaystack](https://relaystack.com)**, an AI execution platform with skill-based agent routing.
 
-- 🛠 Working on: **Relaystack** — AI agents, social media automation, multi-agent orchestration
+- 🛠 Working on: **Relaystack**, building AI agents, social automation, and multi-agent orchestration
+- 🚀 Shipped: **[CodePop](https://codepop-one.vercel.app)** (AI code intelligence), **Lampstand** (React Native app, live on both stores)
 - 🤖 Interests: Agentic systems, RAG pipelines, OpenAI tool calling, pgvector, Vercel AI SDK
 - 🧰 Stack: React · Next.js · TypeScript · Node.js · React Native · PostgreSQL · pgvector
 - 💻 Projects: [isaacayodele.netlify.app](https://isaacayodele.netlify.app)
@@ -39,7 +34,6 @@ Right now I'm focused on the intersection of product engineering and AI — buil
 ---
 
 ### Tech Stack
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
@@ -57,15 +51,12 @@ Right now I'm focused on the intersection of product engineering and AI — buil
 ---
 
 ### GitHub Stats
-
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosidrum&show_icons=true&locale=en&layout=compact" alt="mosidrum" />
 </p>
-
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mosidrum&show_icons=true&locale=en" alt="mosidrum" />
 </p>
-
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mosidrum&" alt="mosidrum" />
 </p>
