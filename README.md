@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://avatars.githubusercontent.com/u/97716175?v=4" alt="logo" width="140" height="auto" />
-  <h1 align="center">Ayodele Isaac Mosiron</h1>
+  <h1 align="center">Isaac Ayodele</h1>
   <h3 align="center">Full-Stack Engineer · Building AI-powered products with React, Next.js, TypeScript, and Node.js</h3>
   <div id="badges">
     <a href="https://www.linkedin.com/in/isaac-ayodele-37890521b/">
